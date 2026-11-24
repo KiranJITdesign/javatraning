@@ -1,7 +1,6 @@
 Here's the full README in formatted markdown — the same content as the delivered file, ready to read or copy into GitHub's editor.
 
 ---
-
 # Java Training 🚀
 
 A hands-on collection of Java practice programs written while learning the language — from loops and arrays through OOP, collections, sorting and small problem-solving exercises.
